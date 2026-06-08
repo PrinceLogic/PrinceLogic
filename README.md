@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I am a passionate developer focused on building sc
 ## 🙋‍♂️ About Me
 - 🎓 **Education:** 3rd-year Bachelor of Technology in Information Technology at Chhotubhai Gopalbhai Patel Institute of Technology (CGPA: 9.10/10).
 - 💼 **Experience:** Recently worked as a **MERN Stack Intern** at UptoSkills, where I architected RESTful APIs, engineered OAuth pipelines, and built responsive admin dashboards.
-- 🚀 **Currently Building:** **EcoFinds**, a sustainable full-stack e-commerce marketplace using the MERN stack and Firebase Authentication.
 - 🌱 **Currently Learning:** Deepening my knowledge in **Data Structures and Algorithms (Java)** and exploring Cloud Computing (Microsoft Azure certified).
 - 📫 **How to reach me:** [kaharprince2006@gmail.com](mailto:kaharprince2006@gmail.com)
 
