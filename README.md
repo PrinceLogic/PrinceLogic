@@ -146,19 +146,10 @@ I am a senior-level Information Technology undergraduate at Chhotubhai Gopalbhai
 
 </div>
 
----
-
-### 11. GitHub Trophies Section
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PrinceLogic&theme=radical&no-frame=true&no-bg=true&margin-w=20&column=7&title-color=9D4EDD" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
-### 12. Contribution Activity Section
+### 11. Contribution Activity Section
 
 <div align="center">
 
@@ -167,7 +158,7 @@ I am a senior-level Information Technology undergraduate at Chhotubhai Gopalbhai
 </div>
 
 
-### 13. Current Focus Section
+### 12. Current Focus Section
 
 ```yaml
 # system_status.yaml
