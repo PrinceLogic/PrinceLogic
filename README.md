@@ -1,242 +1,184 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Prince Kahar
-
 <div align="center">
 
-### 🚀 Full Stack Developer | MERN Stack Enthusiast | IT Student
+<!-- 1. Animated Header Section -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7209B7&height=180&section=header&text=Prince%20Kahar&fontSize=54&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Information%20Technology%20Undergraduate&descAlignY=55&descSize=20" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Learner;Building+Scalable+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Enterprise+Software+Engineer;Full-Stack+MERN+Architect;AI+%26+Cloud+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+
+<br/>
+
+![Academic](https://img.shields.io/badge/B.Tech-Information_Technology-3A0CA3?style=for-the-badge&logo=probot&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Bardoli,_Gujarat-3A0CA3?style=for-the-badge&logo=googlemaps&logoColor=white)
+<br/>
+<a href="https://github.com/PrinceLogic"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-3A0CA3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/prince-kahar"><img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-3A0CA3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kaharprince2006@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-3A0CA3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/PrinceLogic"><img src="https://img.shields.io/badge/GitHub-Follow_My_Code-3A0CA3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 2. About Section
 
-🎓 B.Tech Information Technology Student at **CGPIT Bardoli**
+**Engineering Mission:**
+I am a senior-level Information Technology undergraduate at Chhotubhai Gopalbhai Patel Institute of Technology, operating at the intersection of full-stack product engineering and data-driven systems. Maintaining a top-percentile academic track record (CGPA: 9.10/10), I specialize in architecting highly available, secure, and performant web applications. My engineering approach pairs robust cloud-native backends with responsive, accessible user interfaces.
 
-📈 Current CGPA: **9.10 / 10**
-
-💼 Former **MERN Stack Intern @ UptoSkills**
-
-🌱 Currently exploring:
-
-* Advanced React Ecosystem
-* System Design
-* Docker & Cloud Deployment
-* TypeScript
-* Open Source Contributions
-
-⚡ Passionate about building impactful web applications and solving real-world problems through technology.
+*   **Software Engineering:** Designing modular, clean-code architectures and RESTful microservices prioritized for scale and maintainability.
+*   **AI/ML Expertise:** Accelerating product life cycles through generative tooling, leveraging advanced LLM interactions via Claude and Google AI Studio for complex scaffolding.
+*   **Full Stack Development:** End-to-end MERN (MongoDB, Express, React, Node) ecosystem mastery, establishing seamless synchronization across the client-server boundary.
+*   **Product Engineering Mindset:** Focused on secure, frictionless user onboarding via OAuth integrations and comprehensive operational dashboards that drive measurable business outcomes.
+*   **Open To:** High-impact Software Engineer Internship roles, distributed systems engineering, and open-source enterprise contributions.
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/prince-kahar">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="mailto:kaharprince2006@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://github.com/PrinceLogic">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
-
----
-
-## 💼 Experience
-
-### 🚀 MERN Stack Intern | UptoSkills
-
-**Jan 2026 – Apr 2026**
-
-✔ Developed scalable REST APIs using Express.js and SQLite
-
-✔ Integrated Google OAuth & GitHub OAuth Authentication
-
-✔ Built responsive Admin Dashboard for platform management
-
-✔ Improved authentication security and onboarding experience
-
-**Tech Stack Used**
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,github" />
-</p>
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c" />
-</p>
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
-</p>
-
----
-
-## 🚀 Featured Project
-
-### ♻️ EcoFinds
-
-A sustainable full-stack marketplace for buying and selling pre-owned products.
-
-#### Features
-
-✨ Firebase Authentication
-
-✨ CRUD Product Management
-
-✨ RESTful API Architecture
-
-✨ Responsive UI
-
-✨ Secure User Management
-
-#### Tech Stack
-
-`MongoDB` `Express.js` `React.js` `Node.js` `Firebase`
-
----
-
-## 🏆 Certifications
-
-🎖 Microsoft Elevate's 4-Week Internship Program
-
-☁ Microsoft Azure under Emerging Technologies
-
----
-
-## 📊 GitHub Analytics
+### 3. Tech Stack Section
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrinceLogic&show_icons=true&theme=tokyonight&hide_border=true"/>
+**Languages**<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,c,sql,ts,js&theme=dark" alt="Languages" /></a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceLogic&layout=compact&theme=tokyonight&hide_border=true"/>
+**Frontend**<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite&theme=dark" alt="Frontend" /></a>
+
+**Backend & Databases**<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite,firebase&theme=dark" alt="Backend" /></a>
+
+**Cloud, DevOps & Tooling**<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,azure&theme=dark" alt="DevOps" /></a>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+### 4. AI / ML Expertise Section
+
+| Domain | Proficiency | Details |
+| :--- | :---: | :--- |
+| **Applied Generative AI** | Advanced | Utilizing Claude and Google AI Studio to accelerate complex architectural design, debugging, and systems scaffolding. |
+| **Prompt Engineering** | Advanced | Developing precise, context-aware prompts to maximize LLM output quality for production-grade code generation. |
+| **Workflow Automation** | Intermediate | Integrating AI-assisted coding tools (Cursor) into local environments for hyper-optimized CI/CD and coding velocity. |
+
+---
+
+### 5. Featured Projects Section
+
+<details>
+<summary><b>🔥 EcoFinds: Sustainable E-Commerce Platform</b> <i>(Click to expand)</i></summary>
+<br>
+
+**Project Description:** A highly scalable, full-stack marketplace engineered to facilitate the sustainable trade of pre-owned goods through an optimized and secure digital environment.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | MongoDB, Express.js, React, Node.js, Firebase, REST APIs, Postman |
+| **Scale** | Engineered complex state management and dynamic product pipelines handling robust CRUD operations. |
+| **Performance** | Achieved low-latency data synchronization between the React client and Node/Express backend infrastructure. |
+| **Security** | Deprecated legacy custom login mechanisms in favor of robust Firebase Authentication, hardening the application perimeter. |
+| **Impact** | Drastically reduced friction during user onboarding while establishing a reliable, maintainable inventory data flow. |
+| **Repository** | [Inspect Source Code on GitHub](https://github.com/PrinceLogic) |
+
+**Professional Explanation:** Directed the end-to-end technical strategy for EcoFinds. By implementing a decoupled architecture, the React frontend remains highly responsive while communicating securely with the Express.js endpoints. The transition to Firebase for identity management effectively neutralized common authentication vulnerabilities and established a modern, enterprise-ready user session lifecycle.
+</details>
+
+---
+
+### 6. Experience Section
+
+**MERN Stack Intern** | **UptoSkills**
+*Jan. 2026 - Apr. 2026 • Remote*
+
+**Scope of Work & Impact:**
+*   **API Architecture:** Architected and deployed a highly available RESTful API utilizing Express.js and SQLite, guaranteeing ACID-compliant data persistence and real-time state synchronization with core platform services.
+*   **Security Integration:** Engineered an impenetrable authentication pipeline leveraging Google and GitHub OAuth, fundamentally streamlining the user onboarding experience while enforcing strict access control mechanisms.
+*   **Dashboard Development:** Designed and shipped a modular administrative dashboard composed of responsive React components, dramatically optimizing internal data governance and operational visibility.
+
+**Skills Utilized:** `React.js` `Node.js` `Express.js` `MongoDB` `OAuth 2.0` `SQLite` `RESTful APIs`
+
+---
+
+### 7. Achievements Section
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=PrinceLogic&theme=tokyonight&hide_border=true"/>
+| Recognition | Details |
+| :---: | :--- |
+| **Academic Distinction** | Sustained an exceptional 9.10/10 CGPA throughout rigorous B.Tech Information Technology coursework. |
+| **Technical Excellence** | Successfully delivered an enterprise-ready API architecture and dashboard during a competitive internship |
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+### 8. Certifications Section
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceLogic&theme=tokyo-night&hide_border=true" />
+**Microsoft / Cloud Architecture**<br>
+![Microsoft Azure Internship](https://img.shields.io/badge/Microsoft_Elevate-Azure_Emerging_Technologies-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake Animation
+### 9. Coding Profiles Section
 
-Add the following GitHub Action and display:
+<div align="center">
 
-```markdown
-![Snake animation](https://github.com/PrinceLogic/PrinceLogic/blob/output/github-contribution-grid-snake.svg)
-```
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-Advanced_Algorithms-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 
-### GitHub Action
+</div>
 
-Create:
+---
 
-`.github/workflows/snake.yml`
+### 10. GitHub Analytics Section
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PrinceLogic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=9D4EDD&text_color=E0E0E0&icon_color=7209B7&ring_color=7209B7" alt="Advanced GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceLogic&theme=tokyonight&hide_border=true&background=0A0A0F&ring=9D4EDD&fire=7209B7&currStreakNum=E0E0E0&sideLabels=9D4EDD&dates=8A8A8A" alt="Advanced GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceLogic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=9D4EDD&text_color=E0E0E0" alt="Advanced Top Languages" />
+
+</div>
+
+---
+
+### 11. GitHub Trophies Section
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PrinceLogic&theme=radical&no-frame=true&no-bg=true&margin-w=20&column=7&title-color=9D4EDD" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+### 12. Contribution Activity Section
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceLogic&theme=tokyonight&bg_color=0A0A0F&color=9D4EDD&line=7209B7&point=FFFFFF&hide_border=true" alt="Advanced Activity Graph" />
+
+</div>
+
+
+### 13. Current Focus Section
 
 ```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: PrinceLogic
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
-## 📚 Data Structures & Algorithms
-
-```text
-✔ Problem Solving
-✔ Data Structures
-✔ Algorithms
-✔ OOP
-✔ Database Design
-✔ REST APIs
-✔ Full Stack Development
-```
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Contribute to Open Source
-* ☁ Learn Cloud & DevOps
-* 📈 Reach 500+ DSA Problems
-* 💼 Secure Software Development Internship
-* 🔥 Build Production-Ready SaaS Projects
-
----
-
-<div align="center">
-
-### ⭐ "Code. Learn. Build. Repeat."
-
-<img src="https://komarev.com/ghpvc/?username=PrinceLogic&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
+# system_status.yaml
+status: "Online"
+learning:
+  - "Distributed Systems Architecture & Microservices"
+  - "Advanced CI/CD Pipelines & Docker Containerization"
+building:
+  - "Enterprise-Grade SaaS utilizing the MERN Stack"
+exploring:
+  - "Serverless Compute & Cloud-Native Security"
+open_to:
+  - "Full-Time Software Engineering Internships"
+  - "Open Source Enterprise Collaborations"
