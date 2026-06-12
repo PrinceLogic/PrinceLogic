@@ -1,25 +1,25 @@
-  <div align="center">
+<div align="center">
 
 <!-- 1. Animated Header Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7209B7&height=180&section=header&text=Prince%20Kahar&fontSize=54&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Information%20Technology%20Undergraduate&descAlignY=55&descSize=20" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=4B0082&height=150&section=header&text=Prince%20Kahar&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Enterprise+Software+Engineer;Full-Stack+MERN+Architect;AI+%26+Cloud+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
-
-<br/>
-
-![Academic](https://img.shields.io/badge/B.Tech-Information_Technology-3A0CA3?style=for-the-badge&logo=probot&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Bardoli,_Gujarat-3A0CA3?style=for-the-badge&logo=googlemaps&logoColor=white)
-<br/>
-<a href="https://github.com/PrinceLogic"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-3A0CA3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/prince-kahar"><img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-3A0CA3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:kaharprince2006@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-3A0CA3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/PrinceLogic"><img src="https://img.shields.io/badge/GitHub-Follow_My_Code-3A0CA3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Information+Technology+Undergraduate;MERN+Stack+Developer;Software+Engineer" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PrinceLogic&color=7209B7&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/PrinceLogic?style=for-the-badge&color=7209B7)
-![Stars](https://img.shields.io/github/stars/PrinceLogic?style=for-the-badge&color=7209B7)
+![Academic](https://img.shields.io/badge/B.Tech-Information_Technology-4B0082?style=for-the-badge&logo=probot&logoColor=white)[cite: 2]
+![Location](https://img.shields.io/badge/Location-Bardoli,_Gujarat-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)[cite: 2]
+<br/>
+<a href="https://github.com/PrinceLogic"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-4B0082?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/prince-kahar"><img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kaharprince2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-4B0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/PrinceLogic"><img src="https://img.shields.io/badge/GitHub-Follow-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=PrinceLogic&color=4B0082&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/PrinceLogic?style=for-the-badge&color=4B0082)
+![Stars](https://img.shields.io/github/stars/PrinceLogic?style=for-the-badge&color=4B0082)
 
 </div>
 
@@ -27,14 +27,14 @@
 
 ### 2. About Section
 
-**Engineering Mission:**
-I am a senior-level Information Technology undergraduate at Chhotubhai Gopalbhai Patel Institute of Technology, operating at the intersection of full-stack product engineering and data-driven systems. Maintaining a top-percentile academic track record (CGPA: 9.10/10), I specialize in architecting highly available, secure, and performant web applications. My engineering approach pairs robust cloud-native backends with responsive, accessible user interfaces.
+**Professional engineering-focused biography:**
+I am a Bachelor of Technology student in Information Technology at Chhotubhai Gopalbhai Patel Institute of Technology, based in Bardoli, Gujarat[cite: 2]. I maintain a strong academic foundation with a CGPA of 9.10/10[cite: 2]. My engineering background is rooted in full-stack development and data structures[cite: 2]. 
 
-*   **Software Engineering:** Designing modular, clean-code architectures and RESTful microservices prioritized for scale and maintainability.
-*   **AI/ML Expertise:** Accelerating product life cycles through generative tooling, leveraging advanced LLM interactions via Claude and Google AI Studio for complex scaffolding.
-*   **Full Stack Development:** End-to-end MERN (MongoDB, Express, React, Node) ecosystem mastery, establishing seamless synchronization across the client-server boundary.
-*   **Product Engineering Mindset:** Focused on secure, frictionless user onboarding via OAuth integrations and comprehensive operational dashboards that drive measurable business outcomes.
-*   **Open To:** High-impact Software Engineer roles, distributed systems engineering, and open-source enterprise contributions.
+* **Software Engineering:** Proficient in designing robust RESTful endpoints and utilizing tools like Docker, Git, and Postman to streamline development[cite: 2].
+* **AI/ML Expertise:** Experienced in utilizing design and AI tools including Google AI Studio and Claude for technical solutions[cite: 2].
+* **Full Stack Development:** Expertise in the MERN stack, working with MongoDB, Express.js, React, and Node.js to build dynamic applications[cite: 2].
+* **Product Engineering Mindset:** Focused on integrating secure authentication pipelines like Google and GitHub OAuth to reinforce system security[cite: 2].
+* **Open To:** Full-time software engineering roles and challenging technical opportunities.
 
 ---
 
@@ -43,16 +43,16 @@ I am a senior-level Information Technology undergraduate at Chhotubhai Gopalbhai
 <div align="center">
 
 **Languages**<br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,c,sql,ts,js&theme=dark" alt="Languages" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,c,ts,js&theme=dark" alt="Languages Stack" /></a>[cite: 2]
 
 **Frontend**<br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite&theme=dark" alt="Frontend" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&theme=dark" alt="Frontend Stack" /></a>[cite: 2]
 
 **Backend & Databases**<br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite,firebase&theme=dark" alt="Backend" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite,firebase&theme=dark" alt="Backend Stack" /></a>[cite: 2]
 
 **Cloud, DevOps & Tooling**<br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,azure&theme=dark" alt="DevOps" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma&theme=dark" alt="Tools Stack" /></a>[cite: 2]
 
 </div>
 
@@ -62,45 +62,42 @@ I am a senior-level Information Technology undergraduate at Chhotubhai Gopalbhai
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Applied Generative AI** | Advanced | Utilizing Claude and Google AI Studio to accelerate complex architectural design, debugging, and systems scaffolding. |
-| **Prompt Engineering** | Advanced | Developing precise, context-aware prompts to maximize LLM output quality for production-grade code generation. |
-| **Workflow Automation** | Intermediate | Integrating AI-assisted coding tools (Cursor) into local environments for hyper-optimized CI/CD and coding velocity. |
+| **Generative Design & AI Tools** | Intermediate | Proficient in leveraging Google AI Studio and Claude for designing and streamlining development workflows[cite: 2]. |
 
 ---
 
 ### 5. Featured Projects Section
 
 <details>
-<summary><b>🔥 EcoFinds: Sustainable E-Commerce Platform</b> <i>(Click to expand)</i></summary>
+<summary><b>EcoFinds</b> <i>(Click to expand)</i></summary>
 <br>
 
-**Project Description:** A highly scalable, full-stack marketplace engineered to facilitate the sustainable trade of pre-owned goods through an optimized and secure digital environment.
+**Project Description:** A sustainable, full-stack e-commerce marketplace for pre-owned goods[cite: 2].
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | MongoDB, Express.js, React, Node.js, Firebase, REST APIs, Postman |
-| **Scale** | Engineered complex state management and dynamic product pipelines handling robust CRUD operations. |
-| **Performance** | Achieved low-latency data synchronization between the React client and Node/Express backend infrastructure. |
-| **Security** | Deprecated legacy custom login mechanisms in favor of robust Firebase Authentication, hardening the application perimeter. |
-| **Impact** | Drastically reduced friction during user onboarding while establishing a reliable, maintainable inventory data flow. |
-| **Repository** | [Inspect Source Code on GitHub](https://github.com/PrinceLogic) |
+| **Stack** | MongoDB, Express.js, React, Node.js, Firebase, Postman[cite: 2] |
+| **Scale** | Implemented robust RESTful endpoints to manage comprehensive CRUD operations for dynamic product listings and user inventories[cite: 2] |
+| **Performance** | Optimized data flow between the React frontend and Node/Express backend[cite: 2] |
+| **Security** | Integrated Firebase Authentication to replace legacy custom login logic, significantly enhancing system security[cite: 2] |
+| **Impact** | Streamlined user onboarding and reinforced system security parameters[cite: 2] |
+| **Repository** | [View on GitHub](https://github.com/PrinceLogic) |
 
-**Professional Explanation:** Directed the end-to-end technical strategy for EcoFinds. By implementing a decoupled architecture, the React frontend remains highly responsive while communicating securely with the Express.js endpoints. The transition to Firebase for identity management effectively neutralized common authentication vulnerabilities and established a modern, enterprise-ready user session lifecycle.
+**Professional Explanation:** Engineered the platform to ensure optimal synchronization between the React client and Node.js/Express backend[cite: 2]. By integrating Firebase, the application successfully replaced legacy authentication, providing a secure and scalable solution for managing users and product inventories[cite: 2].
 </details>
 
 ---
 
 ### 6. Experience Section
 
-**MERN Stack Intern** | **UptoSkills**
-*Jan. 2026 - Apr. 2026 • Remote*
+**MERN Stack Intern** | **UptoSkills**[cite: 2]
+*January 2026 - April 2026 • Remote*[cite: 2]
 
-**Scope of Work & Impact:**
-*   **API Architecture:** Architected and deployed a highly available RESTful API utilizing Express.js and SQLite, guaranteeing ACID-compliant data persistence and real-time state synchronization with core platform services.
-*   **Security Integration:** Engineered an impenetrable authentication pipeline leveraging Google and GitHub OAuth, fundamentally streamlining the user onboarding experience while enforcing strict access control mechanisms.
-*   **Dashboard Development:** Designed and shipped a modular administrative dashboard composed of responsive React components, dramatically optimizing internal data governance and operational visibility.
+* Architected and deployed a robust RESTful API using Express.js and SQLite, ensuring efficient data persistence and seamless synchronization with the core platform[cite: 2].
+* Engineered a secure authentication pipeline by integrating Google and GitHub OAuth, streamlining user onboarding and reinforcing system security[cite: 2].
+* Designed and implemented a comprehensive administrative dashboard using responsive, modular components to optimize data management and internal operations[cite: 2].
 
-**Skills Utilized:** `React.js` `Node.js` `Express.js` `MongoDB` `OAuth 2.0` `SQLite` `RESTful APIs`
+**Skills:** React, Node.js, Express, MongoDB[cite: 2]
 
 ---
 
@@ -110,8 +107,7 @@ I am a senior-level Information Technology undergraduate at Chhotubhai Gopalbhai
 
 | Recognition | Details |
 | :---: | :--- |
-| **Academic Distinction** | Sustained an exceptional 9.10/10 CGPA throughout rigorous B.Tech Information Technology coursework. |
-| **Technical Excellence** | Successfully delivered an enterprise-ready API architecture and dashboard during a competitive internship. |
+| **Academic Excellence** | Achieved and maintained a CGPA of 9.10/10 during Bachelor of Technology in Information Technology[cite: 2]. |
 
 </div>
 
@@ -121,8 +117,8 @@ I am a senior-level Information Technology undergraduate at Chhotubhai Gopalbhai
 
 <div align="center">
 
-**Microsoft / Cloud Architecture**<br>
-![Microsoft Azure Internship](https://img.shields.io/badge/Microsoft_Elevate-Azure_Emerging_Technologies-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+**Microsoft**<br>
+![Microsoft Azure](https://img.shields.io/badge/Microsoft-Elevate_Azure_Internship-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)[cite: 2]
 
 </div>
 
@@ -132,10 +128,10 @@ I am a senior-level Information Technology undergraduate at Chhotubhai Gopalbhai
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Advanced_Algorithms-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Data_Structures-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Problem_Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Algorithms-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-Problem_Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-Competitive_Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 
 </div>
 
@@ -145,11 +141,11 @@ I am a senior-level Information Technology undergraduate at Chhotubhai Gopalbhai
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrinceLogic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=9D4EDD&text_color=E0E0E0&icon_color=7209B7&ring_color=7209B7" alt="Advanced GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=PrinceLogic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9&icon_color=A371F7" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceLogic&theme=tokyonight&hide_border=true&background=0A0A0F&ring=9D4EDD&fire=7209B7&currStreakNum=E0E0E0&sideLabels=9D4EDD&dates=8A8A8A" alt="Advanced GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceLogic&theme=tokyonight&hide_border=true&background=0D1117&ring=A371F7&fire=A371F7&currStreakNum=C9D1D9" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceLogic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=9D4EDD&text_color=E0E0E0" alt="Advanced Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceLogic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
@@ -159,7 +155,7 @@ I am a senior-level Information Technology undergraduate at Chhotubhai Gopalbhai
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PrinceLogic&theme=radical&no-frame=true&no-bg=true&margin-w=20&column=7&title-color=9D4EDD" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=PrinceLogic&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -169,7 +165,7 @@ I am a senior-level Information Technology undergraduate at Chhotubhai Gopalbhai
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceLogic&theme=tokyonight&bg_color=0A0A0F&color=9D4EDD&line=7209B7&point=FFFFFF&hide_border=true" alt="Advanced Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceLogic&theme=tokyonight&bg_color=0D1117&color=A371F7&line=9C27B0&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -188,15 +184,11 @@ I am a senior-level Information Technology undergraduate at Chhotubhai Gopalbhai
 ### 14. Current Focus Section
 
 ```yaml
-# system_status.yaml
-status: "Online"
-learning:
-  - "Distributed Systems Architecture & Microservices"
-  - "Advanced CI/CD Pipelines & Docker Containerization"
-building:
-  - "Enterprise-Grade SaaS utilizing the MERN Stack"
-exploring:
-  - "Serverless Compute & Cloud-Native Security"
+learning: 
+  - Data Structure and Algorithms
+building: 
+  - Full Stack MERN Applications
+exploring: 
+  - Generative AI Tools
 open_to:
-  - "Full-Time Software Engineering Roles"
-  - "Open Source Enterprise Collaborations"
+  - Software Engineering Internships
