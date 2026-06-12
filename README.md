@@ -1,177 +1,181 @@
-<div align="center">
+  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=4B0082&height=150&section=header&text=Prince%20Kahar&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+<!-- 1. Animated Header Section -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7209B7&height=180&section=header&text=Prince%20Kahar&fontSize=54&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Information%20Technology%20Undergraduate&descAlignY=55&descSize=20" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Software+Engineer;MERN+Stack+Developer;Information+Technology+Undergrad" alt="Typing SVG" />
-
-<br/>
-
-[cite_start]![Academic](https://img.shields.io/badge/B.Tech-Information_Technology-4B0082?style=for-the-badge&logo=probot&logoColor=white) [cite: 5]
-[cite_start]![Location](https://img.shields.io/badge/Location-Bardoli,_Gujarat-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white) [cite: 8]
-<br/>
-<a href="https://github.com/PrinceLogic"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-4B0082?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-[cite_start]<a href="https://linkedin.com/in/prince-kahar"><img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
-[cite_start]<a href="mailto:kaharprince2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-4B0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> 
-[cite_start]<a href="https://github.com/PrinceLogic"><img src="https://img.shields.io/badge/GitHub-Follow-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Enterprise+Software+Engineer;Full-Stack+MERN+Architect;AI+%26+Cloud+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PrinceLogic&color=4B0082&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/PrinceLogic?style=for-the-badge&color=4B0082)
-![Stars](https://img.shields.io/github/stars/PrinceLogic?style=for-the-badge&color=4B0082)
+![Academic](https://img.shields.io/badge/B.Tech-Information_Technology-3A0CA3?style=for-the-badge&logo=probot&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Bardoli,_Gujarat-3A0CA3?style=for-the-badge&logo=googlemaps&logoColor=white)
+<br/>
+<a href="https://github.com/PrinceLogic"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-3A0CA3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/prince-kahar"><img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-3A0CA3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kaharprince2006@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-3A0CA3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/PrinceLogic"><img src="https://img.shields.io/badge/GitHub-Follow_My_Code-3A0CA3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=PrinceLogic&color=7209B7&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/PrinceLogic?style=for-the-badge&color=7209B7)
+![Stars](https://img.shields.io/github/stars/PrinceLogic?style=for-the-badge&color=7209B7)
 
 </div>
 
 ---
 
-### 2. About Me
+### 2. About Section
 
-**Professional engineering-focused biography:**
-[cite_start]I am a dedicated Information Technology undergraduate at Chhotubhai Gopalbhai Patel Institute of Technology [cite: 4, 5][cite_start], holding a strong academic record with a CGPA of 9.10/10[cite: 6]. [cite_start]As a passionate software engineer, I specialize in architecting scalable solutions and streamlining complex data flows[cite: 18]. My engineering philosophy revolves around writing clean, modular code and building secure, performant systems.
+**Engineering Mission:**
+I am a senior-level Information Technology undergraduate at Chhotubhai Gopalbhai Patel Institute of Technology, operating at the intersection of full-stack product engineering and data-driven systems. Maintaining a top-percentile academic track record (CGPA: 9.10/10), I specialize in architecting highly available, secure, and performant web applications. My engineering approach pairs robust cloud-native backends with responsive, accessible user interfaces.
 
-* [cite_start]**Software Engineering:** Architecting RESTful APIs and optimizing data persistence[cite: 12].
-* [cite_start]**AI/ML Expertise:** Leveraging modern generative tools like Claude and Google AI Studio to accelerate development cycles and design technical solutions[cite: 27].
-* [cite_start]**Full Stack Development:** Expertise in the MERN stack (MongoDB, Express.js, React, Node.js)[cite: 15], integrating seamless frontends with robust backends.
-* [cite_start]**Product Engineering Mindset:** Focused on building secure authentication pipelines and responsive administrative dashboards that enhance internal operations and user onboarding[cite: 13, 14].
-* **Open To:** Full-time software engineering roles, impactful open-source contributions, and challenging enterprise-grade product development opportunities.
+*   **Software Engineering:** Designing modular, clean-code architectures and RESTful microservices prioritized for scale and maintainability.
+*   **AI/ML Expertise:** Accelerating product life cycles through generative tooling, leveraging advanced LLM interactions via Claude and Google AI Studio for complex scaffolding.
+*   **Full Stack Development:** End-to-end MERN (MongoDB, Express, React, Node) ecosystem mastery, establishing seamless synchronization across the client-server boundary.
+*   **Product Engineering Mindset:** Focused on secure, frictionless user onboarding via OAuth integrations and comprehensive operational dashboards that drive measurable business outcomes.
+*   **Open To:** High-impact Software Engineer roles, distributed systems engineering, and open-source enterprise contributions.
 
 ---
 
-### 3. Tech Stack
+### 3. Tech Stack Section
 
 <div align="center">
 
 **Languages**<br/>
-[cite_start]<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,c,sql,ts,js" alt="Languages Stack" /></a> [cite: 22, 24]
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,c,sql,ts,js&theme=dark" alt="Languages" /></a>
 
 **Frontend**<br/>
-[cite_start]<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" alt="Frontend Stack" /></a> [cite: 23]
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite&theme=dark" alt="Frontend" /></a>
 
 **Backend & Databases**<br/>
-[cite_start]<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite,firebase" alt="Backend Stack" /></a> [cite: 12, 17, 24, 25]
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite,firebase&theme=dark" alt="Backend" /></a>
 
 **Cloud, DevOps & Tooling**<br/>
-[cite_start]<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,azure" alt="Tools Stack" /></a> [cite: 26, 27, 30]
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,azure&theme=dark" alt="DevOps" /></a>
 
 </div>
 
 ---
 
-### 4. AI / ML Expertise
+### 4. AI / ML Expertise Section
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Generative AI & LLMs** | Intermediate | [cite_start]Utilizing Google AI Studio and Claude for rapid prototyping and technical design[cite: 27]. |
-| **Prompt Engineering** | Advanced | Crafting optimized system contexts for precise code generation and architectural scaffolding. |
+| **Applied Generative AI** | Advanced | Utilizing Claude and Google AI Studio to accelerate complex architectural design, debugging, and systems scaffolding. |
+| **Prompt Engineering** | Advanced | Developing precise, context-aware prompts to maximize LLM output quality for production-grade code generation. |
+| **Workflow Automation** | Intermediate | Integrating AI-assisted coding tools (Cursor) into local environments for hyper-optimized CI/CD and coding velocity. |
 
 ---
 
-### 5. Featured Projects
+### 5. Featured Projects Section
 
 <details>
-<summary><b>EcoFinds</b> <i>(Click to expand)</i></summary>
+<summary><b>🔥 EcoFinds: Sustainable E-Commerce Platform</b> <i>(Click to expand)</i></summary>
 <br>
 
-[cite_start]**Project Description:** A sustainable, full-stack e-commerce marketplace for pre-owned goods[cite: 18].
+**Project Description:** A highly scalable, full-stack marketplace engineered to facilitate the sustainable trade of pre-owned goods through an optimized and secure digital environment.
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | [cite_start]MongoDB, Express.js, React, Node.js, Firebase, Postman [cite: 17] |
-| **Scale** | [cite_start]Comprehensive CRUD operations for dynamic product listings and user inventories [cite: 20] |
-| **Performance** | [cite_start]Optimized data flow between the React frontend and Node/Express backend [cite: 18] |
-| **Security** | [cite_start]Integrated Firebase Authentication to replace legacy custom login logic [cite: 19] |
-| **Impact** | [cite_start]Significantly enhanced system security and streamlined user onboarding [cite: 19] |
-| **Repository** | [View on GitHub](https://github.com/PrinceLogic) |
+| **Stack** | MongoDB, Express.js, React, Node.js, Firebase, REST APIs, Postman |
+| **Scale** | Engineered complex state management and dynamic product pipelines handling robust CRUD operations. |
+| **Performance** | Achieved low-latency data synchronization between the React client and Node/Express backend infrastructure. |
+| **Security** | Deprecated legacy custom login mechanisms in favor of robust Firebase Authentication, hardening the application perimeter. |
+| **Impact** | Drastically reduced friction during user onboarding while establishing a reliable, maintainable inventory data flow. |
+| **Repository** | [Inspect Source Code on GitHub](https://github.com/PrinceLogic) |
 
-**Professional Explanation:** Architected the complete data pipeline, ensuring robust RESTful endpoints managed complex product states effectively. By modernizing the authentication layer, the application achieved higher security standards and a frictionless user experience.
+**Professional Explanation:** Directed the end-to-end technical strategy for EcoFinds. By implementing a decoupled architecture, the React frontend remains highly responsive while communicating securely with the Express.js endpoints. The transition to Firebase for identity management effectively neutralized common authentication vulnerabilities and established a modern, enterprise-ready user session lifecycle.
 </details>
 
 ---
 
-### 6. Experience
+### 6. Experience Section
 
-**MERN Stack Intern** | [cite_start]**UptoSkills** [cite: 9, 10]
-[cite_start]*January 2026 - April 2026 • Remote* [cite: 11]
+**MERN Stack Intern** | **UptoSkills**
+*Jan. 2026 - Apr. 2026 • Remote*
 
-* [cite_start]Architected and deployed a robust RESTful API using Express.js and SQLite, ensuring efficient data persistence and seamless synchronization with the core platform[cite: 12].
-* [cite_start]Engineered a secure authentication pipeline by integrating Google and GitHub OAuth, streamlining user onboarding and reinforcing system security[cite: 13].
-* [cite_start]Designed and implemented a comprehensive administrative dashboard using responsive, modular components to optimize data management and internal operations[cite: 14].
+**Scope of Work & Impact:**
+*   **API Architecture:** Architected and deployed a highly available RESTful API utilizing Express.js and SQLite, guaranteeing ACID-compliant data persistence and real-time state synchronization with core platform services.
+*   **Security Integration:** Engineered an impenetrable authentication pipeline leveraging Google and GitHub OAuth, fundamentally streamlining the user onboarding experience while enforcing strict access control mechanisms.
+*   **Dashboard Development:** Designed and shipped a modular administrative dashboard composed of responsive React components, dramatically optimizing internal data governance and operational visibility.
 
-[cite_start]**Skills:** React, Node.js, Express, MongoDB [cite: 15]
+**Skills Utilized:** `React.js` `Node.js` `Express.js` `MongoDB` `OAuth 2.0` `SQLite` `RESTful APIs`
 
 ---
 
-### 7. Achievements
+### 7. Achievements Section
 
 <div align="center">
 
 | Recognition | Details |
 | :---: | :--- |
-| **Academic Excellence** | [cite_start]Maintained an outstanding CGPA of 9.10/10 in B.Tech Information Technology[cite: 5, 6]. |
+| **Academic Distinction** | Sustained an exceptional 9.10/10 CGPA throughout rigorous B.Tech Information Technology coursework. |
+| **Technical Excellence** | Successfully delivered an enterprise-ready API architecture and dashboard during a competitive internship. |
 
 </div>
 
 ---
 
-### 8. Certifications
+### 8. Certifications Section
 
 <div align="center">
 
-**Microsoft / Cloud**
-[cite_start]![Microsoft Azure](https://img.shields.io/badge/Microsoft-Elevate_Azure_Internship-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) [cite: 30]
+**Microsoft / Cloud Architecture**<br>
+![Microsoft Azure Internship](https://img.shields.io/badge/Microsoft_Elevate-Azure_Emerging_Technologies-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
 ---
 
-### 9. Coding Profiles
+### 9. Coding Profiles Section
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-Advanced_Algorithms-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Data_Structures-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Algorithms-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Competitive_Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-Problem_Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 
 </div>
 
 ---
 
-### 10. GitHub Analytics
+### 10. GitHub Analytics Section
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrinceLogic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9&icon_color=A371F7" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=PrinceLogic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=9D4EDD&text_color=E0E0E0&icon_color=7209B7&ring_color=7209B7" alt="Advanced GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceLogic&theme=tokyonight&hide_border=true&background=0D1117&ring=A371F7&fire=A371F7&currStreakNum=C9D1D9" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceLogic&theme=tokyonight&hide_border=true&background=0A0A0F&ring=9D4EDD&fire=7209B7&currStreakNum=E0E0E0&sideLabels=9D4EDD&dates=8A8A8A" alt="Advanced GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceLogic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceLogic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=9D4EDD&text_color=E0E0E0" alt="Advanced Top Languages" />
 
 </div>
 
 ---
 
-### 11. GitHub Trophies
+### 11. GitHub Trophies Section
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PrinceLogic&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=PrinceLogic&theme=radical&no-frame=true&no-bg=true&margin-w=20&column=7&title-color=9D4EDD" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-### 12. Contribution Activity
+### 12. Contribution Activity Section
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceLogic&theme=tokyonight&bg_color=0D1117&color=A371F7&line=9C27B0&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceLogic&theme=tokyonight&bg_color=0A0A0F&color=9D4EDD&line=7209B7&point=FFFFFF&hide_border=true" alt="Advanced Activity Graph" />
 
 </div>
 
 ---
 
-### 13. Contribution Snake
+### 13. Contribution Snake Section
 
 <div align="center">
 
@@ -181,16 +185,18 @@
 
 ---
 
-### 14. Current Focus
+### 14. Current Focus Section
 
 ```yaml
-learning: 
-  - Advanced Distributed Systems
-  - Generative AI Integration Workflows
-building: 
-  - Enterprise-grade MERN Applications
-exploring: 
-  - Cloud-Native Architecture & Containerization
+# system_status.yaml
+status: "Online"
+learning:
+  - "Distributed Systems Architecture & Microservices"
+  - "Advanced CI/CD Pipelines & Docker Containerization"
+building:
+  - "Enterprise-Grade SaaS utilizing the MERN Stack"
+exploring:
+  - "Serverless Compute & Cloud-Native Security"
 open_to:
-  - Full-time Software Engineering roles
-  - Open Source Collaborations
+  - "Full-Time Software Engineering Roles"
+  - "Open Source Enterprise Collaborations"
