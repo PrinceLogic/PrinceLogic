@@ -39,7 +39,7 @@ I am a senior-level Information Technology undergraduate at Chhotubhai Gopalbhai
 <div align="center">
 
 **Languages**<br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,c,sql,ts,js&theme=dark" alt="Languages" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,c,ts,js&theme=dark" alt="Languages" /></a>
 
 **Frontend**<br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite&theme=dark" alt="Frontend" /></a>
