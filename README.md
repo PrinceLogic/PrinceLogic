@@ -66,24 +66,8 @@ I am a senior-level Information Technology undergraduate at Chhotubhai Gopalbhai
 
 ### 5. Featured Projects Section
 
-<details>
-<summary><b>🔥 EcoFinds: Sustainable E-Commerce Platform</b> <i>(Click to expand)</i></summary>
-<br>
-
-**Project Description:** A highly scalable, full-stack marketplace engineered to facilitate the sustainable trade of pre-owned goods through an optimized and secure digital environment.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | MongoDB, Express.js, React, Node.js, Firebase, REST APIs, Postman |
-| **Scale** | Engineered complex state management and dynamic product pipelines handling robust CRUD operations. |
-| **Performance** | Achieved low-latency data synchronization between the React client and Node/Express backend infrastructure. |
-| **Security** | Deprecated legacy custom login mechanisms in favor of robust Firebase Authentication, hardening the application perimeter. |
-| **Impact** | Drastically reduced friction during user onboarding while establishing a reliable, maintainable inventory data flow. |
-| **Repository** | [Inspect Source Code on GitHub](https://github.com/PrinceLogic) |
-
-**Professional Explanation:** Directed the end-to-end technical strategy for EcoFinds. By implementing a decoupled architecture, the React frontend remains highly responsive while communicating securely with the Express.js endpoints. The transition to Firebase for identity management effectively neutralized common authentication vulnerabilities and established a modern, enterprise-ready user session lifecycle.
-</details>
-
+🔥 Kairos Meet: A Real-time Video Conferencing Platform (Click to expand)
+**Project Description:** A real-time video conferencing platform utilizing WebRTC for low-latency peer-to-peer media streaming, integrating STUN servers to handle NAT traversal across restrictive networks[cite: 1]. | Metric | Details | | :--- | :--- | | **Stack** | React, Node.js, Express.js, MongoDB, WebRTC, Socket.io, JWT, STUN, Tailwind CSS, Vercel, Postman, Git[cite: 1]. | | **Architecture** | Architected a scalable signaling server using Node.js, Express, and Socket.io to efficiently route connection data, manage dynamic room states, and synchronize events across concurrent client sessions[cite: 1]. | | **Security** | Implemented secure user authentication utilizing JWT (JSON Web Tokens), ensuring protected API routes, secure meeting room access, and safe transmission of user data[cite: 1]. | | **Frontend** | Developed a responsive frontend using React and Tailwind CSS, managing complex states to smoothly render dynamic video grids, screen sharing, and real-time chat without degrading browser performance[cite: 1]. | | **Status** | Live[cite: 1]. | --- ### 6. Experience Section **MERN Stack Intern** | **UptoSkills** *Jan. 2026 - Apr. 2026 • Remote* **Scope of Work & Impact:** * **API Architecture:** Architected and deployed a highly available RESTful API utilizing Express.js and SQLite, guaranteeing ACID-compliant data persistence and real-time state synchronization with core platform services. * **Security Integration:** Engineered an impenetrable authentication pipeline leveraging Google and GitHub OAuth, fundamentally streamlining the user onboarding experience while enforcing strict access control mechanisms. * **Dashboard Development:** Designed and shipped a modular administrative dashboard composed of responsive React components, dramatically optimizing internal data governance and operational visibility. **Skills Utilized:** `React.js` `Node.js` `Express.js` `MongoDB` `OAuth 2.0` `SQLite` `RESTful APIs`
 ---
 
 ### 6. Experience Section
