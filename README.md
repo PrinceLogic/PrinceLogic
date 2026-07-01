@@ -66,16 +66,16 @@ I am a senior-level Information Technology undergraduate at Chhotubhai Gopalbhai
 
 ### 5. Featured Projects Section
 
-Kairos Meet - A Real-time Video Conferencing Platform 
-• Engineered a real-time video conferencing platform utilizing WebRTC for low-latency peer-to-peer media streaming,
+**Kairos Meet - A Real-time Video Conferencing Platform ** *<a href="https://kairos-meet.vercel.app">Live</a>
+* Engineered a real-time video conferencing platform utilizing WebRTC for low-latency peer-to-peer media streaming,
 integrating STUN servers to handle NAT traversal across restrictive networks.
-• Architected a scalable signaling server using Node.js, Express, and Socket.io to efficiently route connection data,
+* Architected a scalable signaling server using Node.js, Express, and Socket.io to efficiently route connection data,
 manage dynamic room states, and synchronize events across concurrent client sessions.
-• Implemented secure user authentication utilizing JWT (JSON Web Tokens), ensuring protected API routes, secure
+* Implemented secure user authentication utilizing JWT (JSON Web Tokens), ensuring protected API routes, secure
 meeting room access, and safe transmission of user data.
-• Developed a responsive frontend using React and Tailwind CSS, managing complex states to smoothly render
+* Developed a responsive frontend using React and Tailwind CSS, managing complex states to smoothly render
 dynamic video grids, screen sharing, and real-time chat without degrading browser performance.
-• Technologies Used: React, Node.js, Express.js, MongoDB, WebRTC, Socket.io, JWT, STUN, Tailwind CSS,
+* Technologies Used: React, Node.js, Express.js, MongoDB, WebRTC, Socket.io, JWT, STUN, Tailwind CSS,
 Vercel, Postman, Git.
 
 ### 6. Experience Section
