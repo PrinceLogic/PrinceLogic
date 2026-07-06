@@ -130,11 +130,11 @@ Vercel, Postman, Git.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrinceLogic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=9D4EDD&text_color=E0E0E0&icon_color=7209B7&ring_color=7209B7" alt="Advanced GitHub Stats" />
 
 
+<img src="https://streak-stats.demolab.com/?user=PrinceLogic&theme=tokyonight&hide_border=true&background=0A0A0F&ring=9D4EDD&fire=7209B7&currStreakNum=E0E0E0&sideLabels=9D4EDD&dates=8A8A8A" alt="Advanced GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceLogic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=9D4EDD&text_color=E0E0E0" alt="Advanced Top Languages" />
+
 
 </div>
 
