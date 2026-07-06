@@ -130,11 +130,24 @@ Vercel, Postman, Git.
 
   <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrinceLogic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=9D4EDD&text_color=E0E0E0&icon_color=7209B7&ring_color=7209B7&v=1" alt="Advanced GitHub Stats" />
+<!-- 1. Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=PrinceLogic&label=Profile%20Views&color=7209B7&style=for-the-badge" alt="Profile Views" />
+<br><br>
 
-<img src="https://streak-stats.demolab.com/?user=PrinceLogic&theme=tokyonight&hide_border=true&background=0A0A0F&ring=9D4EDD&fire=7209B7&currStreakNum=E0E0E0&sideLabels=9D4EDD&dates=8A8A8A&v=1" alt="Advanced GitHub Streak" />
+<!-- 2. GitHub Trophies (Shows rank based on commits, stars, PRs, etc.) -->
+<img src="https://github-profile-trophy.vercel.app/?username=PrinceLogic&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceLogic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=9D4EDD&text_color=E0E0E0&v=1" alt="Advanced Top Languages" />
+<!-- 3. Your Existing Stats (Fixed API) -->
+<img src="https://github-readme-stats.vercel.app/api?username=PrinceLogic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=9D4EDD&text_color=E0E0E0&icon_color=7209B7&ring_color=7209B7" alt="Advanced GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com/?user=PrinceLogic&theme=tokyonight&hide_border=true&background=0A0A0F&ring=9D4EDD&fire=7209B7&currStreakNum=E0E0E0&sideLabels=9D4EDD&dates=8A8A8A" alt="Advanced GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceLogic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=9D4EDD&text_color=E0E0E0" alt="Advanced Top Languages" />
+<br><br>
+
+<!-- 4. Dynamic Activity Graph (Visualizes your last 31 days of contributions) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceLogic&bg_color=0A0A0F&color=E0E0E0&line=9D4EDD&point=7209B7&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
